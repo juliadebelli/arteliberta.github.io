@@ -4,7 +4,9 @@
 }
 
 body {
+  background-color: #373a37;
   background-image: url("https://orig00.deviantart.net/43f4/f/2018/274/b/9/background_by_juliadebelli-dcob83f.png");
+  background-attachment: fixed;
   height: 100vh;
   font-family: Source Sans Pro, sans-serif;
   color: #e5c97a;
@@ -18,4 +20,15 @@ p {
 
 span {
   background-color: #373a37;
+}
+
+#facebook {
+  width: 64px;
+  background-image: url('style/icon-fb.svg')
+}
+
+footer img {
+  padding: 32px;
+  width: 64px;
+  height: 64px;
 }
