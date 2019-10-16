@@ -1,0 +1,43 @@
+.top-menu {
+  display: inline;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+li:hover {
+  border-bottom: 3px solid #e5c97a;
+}
+
+body {
+  background-color: #373a37;
+  background-image: url("https://orig00.deviantart.net/43f4/f/2018/274/b/9/background_by_juliadebelli-dcob83f.png");
+  background-attachment: fixed;
+  height: 100vh;
+  font-family: Source Sans Pro, sans-serif;
+  color: #e5c97a;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+p {
+  margin-top: 0;
+}
+
+span {
+  background-color: #373a37;
+}
+
+footer img {
+  padding: 32px;
+  width: 64px;
+  height: 64px;
+}
